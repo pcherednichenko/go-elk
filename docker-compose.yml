@@ -1,0 +1,55 @@
+version: '2.2'
+
+services:
+  golang:
+    image: golang:1.11
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+      kibana:
+        condition: service_healthy
+    volumes:
+      - ./:/go/src/github.com/pcherednichenko/go-elk
+      - ./logs/:/logs/
+    working_dir: /go/src/github.com/pcherednichenko/go-elk
+    command: go run main.go
+
+  filebeat:
+    image: docker.elastic.co/beats/filebeat:6.5.1
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+    volumes:
+      - ./config/filebeat.yml:/usr/share/filebeat/filebeat.yml
+      - ./logs/:/logs/
+
+  logstash:
+    image: docker.elastic.co/logstash/logstash:6.5.1
+    volumes:
+      - ./config/logstash.conf:/usr/share/logstash/pipeline/logstash.conf:ro
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:6.5.1
+    healthcheck:
+      test: ["CMD", "curl", "-s", "-f", "http://localhost:9200/_cat/health"]
+      interval: 3s
+      timeout: 3s
+      retries: 80
+    ports:
+      - 9200:9200
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:6.5.1
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-s", "-f", "http://localhost:5601/api/status"]
+      interval: 3s
+      timeout: 3s
+      retries: 80
+    ports:
+      - 5601:5601

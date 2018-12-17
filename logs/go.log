@@ -1,0 +1,825 @@
+{"level":"info","ts":1545067843.2000835,"caller":"go-elk/main.go:35","msg":"test log: 1"}
+{"level":"error","ts":1545067843.2018015,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 1","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067844.203556,"caller":"go-elk/main.go:35","msg":"test log: 2"}
+{"level":"info","ts":1545067845.2045944,"caller":"go-elk/main.go:35","msg":"test log: 3"}
+{"level":"info","ts":1545067846.2069678,"caller":"go-elk/main.go:35","msg":"test log: 4"}
+{"level":"info","ts":1545067847.2089753,"caller":"go-elk/main.go:35","msg":"test log: 5"}
+{"level":"error","ts":1545067847.21203,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 5","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067848.2152162,"caller":"go-elk/main.go:35","msg":"test log: 6"}
+{"level":"info","ts":1545067849.2190912,"caller":"go-elk/main.go:35","msg":"test log: 7"}
+{"level":"info","ts":1545067850.2211466,"caller":"go-elk/main.go:35","msg":"test log: 8"}
+{"level":"info","ts":1545067851.222004,"caller":"go-elk/main.go:35","msg":"test log: 9"}
+{"level":"info","ts":1545067852.224677,"caller":"go-elk/main.go:35","msg":"test log: 10"}
+{"level":"info","ts":1545067853.2270606,"caller":"go-elk/main.go:35","msg":"test log: 11"}
+{"level":"info","ts":1545067854.2292092,"caller":"go-elk/main.go:35","msg":"test log: 12"}
+{"level":"error","ts":1545067854.2312927,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 12","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067855.234637,"caller":"go-elk/main.go:35","msg":"test log: 13"}
+{"level":"info","ts":1545067856.2358577,"caller":"go-elk/main.go:35","msg":"test log: 14"}
+{"level":"info","ts":1545067857.2377956,"caller":"go-elk/main.go:35","msg":"test log: 15"}
+{"level":"info","ts":1545067858.238813,"caller":"go-elk/main.go:35","msg":"test log: 16"}
+{"level":"info","ts":1545067859.241982,"caller":"go-elk/main.go:35","msg":"test log: 17"}
+{"level":"error","ts":1545067859.2438617,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 17","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067860.246236,"caller":"go-elk/main.go:35","msg":"test log: 18"}
+{"level":"info","ts":1545067861.2481725,"caller":"go-elk/main.go:35","msg":"test log: 19"}
+{"level":"info","ts":1545067862.2512217,"caller":"go-elk/main.go:35","msg":"test log: 20"}
+{"level":"info","ts":1545067863.2528865,"caller":"go-elk/main.go:35","msg":"test log: 21"}
+{"level":"info","ts":1545067864.254042,"caller":"go-elk/main.go:35","msg":"test log: 22"}
+{"level":"info","ts":1545067865.256186,"caller":"go-elk/main.go:35","msg":"test log: 23"}
+{"level":"info","ts":1545067866.257856,"caller":"go-elk/main.go:35","msg":"test log: 24"}
+{"level":"info","ts":1545067867.2598016,"caller":"go-elk/main.go:35","msg":"test log: 25"}
+{"level":"info","ts":1545067868.2614827,"caller":"go-elk/main.go:35","msg":"test log: 26"}
+{"level":"info","ts":1545067869.26305,"caller":"go-elk/main.go:35","msg":"test log: 27"}
+{"level":"info","ts":1545067870.264776,"caller":"go-elk/main.go:35","msg":"test log: 28"}
+{"level":"info","ts":1545067871.2668247,"caller":"go-elk/main.go:35","msg":"test log: 29"}
+{"level":"info","ts":1545067872.2495072,"caller":"go-elk/main.go:35","msg":"test log: 30"}
+{"level":"info","ts":1545067873.2535765,"caller":"go-elk/main.go:35","msg":"test log: 31"}
+{"level":"error","ts":1545067873.2548163,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 31","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067874.2575045,"caller":"go-elk/main.go:35","msg":"test log: 32"}
+{"level":"info","ts":1545067875.2634735,"caller":"go-elk/main.go:35","msg":"test log: 33"}
+{"level":"info","ts":1545067876.2648907,"caller":"go-elk/main.go:35","msg":"test log: 34"}
+{"level":"error","ts":1545067876.270027,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 34","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067877.2714205,"caller":"go-elk/main.go:35","msg":"test log: 35"}
+{"level":"info","ts":1545067878.283348,"caller":"go-elk/main.go:35","msg":"test log: 36"}
+{"level":"info","ts":1545067879.2839572,"caller":"go-elk/main.go:35","msg":"test log: 37"}
+{"level":"info","ts":1545067880.2855608,"caller":"go-elk/main.go:35","msg":"test log: 38"}
+{"level":"error","ts":1545067880.287342,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 38","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067881.2899954,"caller":"go-elk/main.go:35","msg":"test log: 39"}
+{"level":"info","ts":1545067882.2916167,"caller":"go-elk/main.go:35","msg":"test log: 40"}
+{"level":"info","ts":1545067883.293379,"caller":"go-elk/main.go:35","msg":"test log: 41"}
+{"level":"info","ts":1545067884.2949367,"caller":"go-elk/main.go:35","msg":"test log: 42"}
+{"level":"info","ts":1545067885.295864,"caller":"go-elk/main.go:35","msg":"test log: 43"}
+{"level":"info","ts":1545067886.2967331,"caller":"go-elk/main.go:35","msg":"test log: 44"}
+{"level":"info","ts":1545067887.298788,"caller":"go-elk/main.go:35","msg":"test log: 45"}
+{"level":"info","ts":1545067888.2999747,"caller":"go-elk/main.go:35","msg":"test log: 46"}
+{"level":"info","ts":1545067889.30209,"caller":"go-elk/main.go:35","msg":"test log: 47"}
+{"level":"info","ts":1545067890.303351,"caller":"go-elk/main.go:35","msg":"test log: 48"}
+{"level":"info","ts":1545067891.3052566,"caller":"go-elk/main.go:35","msg":"test log: 49"}
+{"level":"info","ts":1545067892.3078423,"caller":"go-elk/main.go:35","msg":"test log: 50"}
+{"level":"info","ts":1545067893.3114474,"caller":"go-elk/main.go:35","msg":"test log: 51"}
+{"level":"info","ts":1545067894.313975,"caller":"go-elk/main.go:35","msg":"test log: 52"}
+{"level":"error","ts":1545067894.3185234,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 52","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067895.322534,"caller":"go-elk/main.go:35","msg":"test log: 53"}
+{"level":"info","ts":1545067896.3241785,"caller":"go-elk/main.go:35","msg":"test log: 54"}
+{"level":"info","ts":1545067897.3254745,"caller":"go-elk/main.go:35","msg":"test log: 55"}
+{"level":"info","ts":1545067898.327068,"caller":"go-elk/main.go:35","msg":"test log: 56"}
+{"level":"info","ts":1545067899.3278782,"caller":"go-elk/main.go:35","msg":"test log: 57"}
+{"level":"info","ts":1545067900.329285,"caller":"go-elk/main.go:35","msg":"test log: 58"}
+{"level":"info","ts":1545067901.3320646,"caller":"go-elk/main.go:35","msg":"test log: 59"}
+{"level":"info","ts":1545067902.3131547,"caller":"go-elk/main.go:35","msg":"test log: 60"}
+{"level":"info","ts":1545067903.316365,"caller":"go-elk/main.go:35","msg":"test log: 61"}
+{"level":"error","ts":1545067903.3272223,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 61","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067904.3315058,"caller":"go-elk/main.go:35","msg":"test log: 62"}
+{"level":"info","ts":1545067905.334017,"caller":"go-elk/main.go:35","msg":"test log: 63"}
+{"level":"info","ts":1545067906.335724,"caller":"go-elk/main.go:35","msg":"test log: 64"}
+{"level":"info","ts":1545067907.3387804,"caller":"go-elk/main.go:35","msg":"test log: 65"}
+{"level":"info","ts":1545067908.3458238,"caller":"go-elk/main.go:35","msg":"test log: 66"}
+{"level":"info","ts":1545067909.3470252,"caller":"go-elk/main.go:35","msg":"test log: 67"}
+{"level":"error","ts":1545067909.3487828,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 67","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067910.3576908,"caller":"go-elk/main.go:35","msg":"test log: 68"}
+{"level":"info","ts":1545067911.3637652,"caller":"go-elk/main.go:35","msg":"test log: 69"}
+{"level":"info","ts":1545067912.3652797,"caller":"go-elk/main.go:35","msg":"test log: 70"}
+{"level":"info","ts":1545067913.3731618,"caller":"go-elk/main.go:35","msg":"test log: 71"}
+{"level":"info","ts":1545067914.3784165,"caller":"go-elk/main.go:35","msg":"test log: 72"}
+{"level":"info","ts":1545067915.3801115,"caller":"go-elk/main.go:35","msg":"test log: 73"}
+{"level":"info","ts":1545067916.3814564,"caller":"go-elk/main.go:35","msg":"test log: 74"}
+{"level":"info","ts":1545067917.3856544,"caller":"go-elk/main.go:35","msg":"test log: 75"}
+{"level":"info","ts":1545067918.393864,"caller":"go-elk/main.go:35","msg":"test log: 76"}
+{"level":"info","ts":1545067919.3972647,"caller":"go-elk/main.go:35","msg":"test log: 77"}
+{"level":"info","ts":1545067920.402184,"caller":"go-elk/main.go:35","msg":"test log: 78"}
+{"level":"info","ts":1545067921.4083917,"caller":"go-elk/main.go:35","msg":"test log: 79"}
+{"level":"info","ts":1545067922.4116254,"caller":"go-elk/main.go:35","msg":"test log: 80"}
+{"level":"info","ts":1545067923.415333,"caller":"go-elk/main.go:35","msg":"test log: 81"}
+{"level":"info","ts":1545067924.4174728,"caller":"go-elk/main.go:35","msg":"test log: 82"}
+{"level":"info","ts":1545067925.4195976,"caller":"go-elk/main.go:35","msg":"test log: 83"}
+{"level":"info","ts":1545067926.4204028,"caller":"go-elk/main.go:35","msg":"test log: 84"}
+{"level":"info","ts":1545067927.4270263,"caller":"go-elk/main.go:35","msg":"test log: 85"}
+{"level":"error","ts":1545067927.4302714,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 85","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067928.4321818,"caller":"go-elk/main.go:35","msg":"test log: 86"}
+{"level":"info","ts":1545067929.4340172,"caller":"go-elk/main.go:35","msg":"test log: 87"}
+{"level":"info","ts":1545067930.4356155,"caller":"go-elk/main.go:35","msg":"test log: 88"}
+{"level":"info","ts":1545067931.4370258,"caller":"go-elk/main.go:35","msg":"test log: 89"}
+{"level":"error","ts":1545067931.4390554,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 89","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067932.421108,"caller":"go-elk/main.go:35","msg":"test log: 90"}
+{"level":"info","ts":1545067933.4295156,"caller":"go-elk/main.go:35","msg":"test log: 91"}
+{"level":"info","ts":1545067934.4344943,"caller":"go-elk/main.go:35","msg":"test log: 92"}
+{"level":"info","ts":1545067935.4375143,"caller":"go-elk/main.go:35","msg":"test log: 93"}
+{"level":"info","ts":1545067936.4406054,"caller":"go-elk/main.go:35","msg":"test log: 94"}
+{"level":"info","ts":1545067937.444413,"caller":"go-elk/main.go:35","msg":"test log: 95"}
+{"level":"info","ts":1545067938.4478467,"caller":"go-elk/main.go:35","msg":"test log: 96"}
+{"level":"info","ts":1545067939.4483702,"caller":"go-elk/main.go:35","msg":"test log: 97"}
+{"level":"info","ts":1545067940.4514666,"caller":"go-elk/main.go:35","msg":"test log: 98"}
+{"level":"info","ts":1545067941.4545443,"caller":"go-elk/main.go:35","msg":"test log: 99"}
+{"level":"info","ts":1545067942.4559948,"caller":"go-elk/main.go:35","msg":"test log: 100"}
+{"level":"info","ts":1545067943.4634795,"caller":"go-elk/main.go:35","msg":"test log: 101"}
+{"level":"info","ts":1545067944.4669363,"caller":"go-elk/main.go:35","msg":"test log: 102"}
+{"level":"error","ts":1545067944.4685776,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 102","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067945.4700155,"caller":"go-elk/main.go:35","msg":"test log: 103"}
+{"level":"info","ts":1545067946.4737384,"caller":"go-elk/main.go:35","msg":"test log: 104"}
+{"level":"info","ts":1545067947.4805472,"caller":"go-elk/main.go:35","msg":"test log: 105"}
+{"level":"info","ts":1545067948.482502,"caller":"go-elk/main.go:35","msg":"test log: 106"}
+{"level":"info","ts":1545067949.4841225,"caller":"go-elk/main.go:35","msg":"test log: 107"}
+{"level":"info","ts":1545067950.4901803,"caller":"go-elk/main.go:35","msg":"test log: 108"}
+{"level":"info","ts":1545067951.4922972,"caller":"go-elk/main.go:35","msg":"test log: 109"}
+{"level":"info","ts":1545067952.4939163,"caller":"go-elk/main.go:35","msg":"test log: 110"}
+{"level":"info","ts":1545067953.4990313,"caller":"go-elk/main.go:35","msg":"test log: 111"}
+{"level":"info","ts":1545067954.5025375,"caller":"go-elk/main.go:35","msg":"test log: 112"}
+{"level":"info","ts":1545067955.504384,"caller":"go-elk/main.go:35","msg":"test log: 113"}
+{"level":"error","ts":1545067955.5056553,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 113","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067956.5094156,"caller":"go-elk/main.go:35","msg":"test log: 114"}
+{"level":"info","ts":1545067957.5130866,"caller":"go-elk/main.go:35","msg":"test log: 115"}
+{"level":"info","ts":1545067958.514396,"caller":"go-elk/main.go:35","msg":"test log: 116"}
+{"level":"info","ts":1545067959.5183158,"caller":"go-elk/main.go:35","msg":"test log: 117"}
+{"level":"info","ts":1545067960.523604,"caller":"go-elk/main.go:35","msg":"test log: 118"}
+{"level":"info","ts":1545067961.5258274,"caller":"go-elk/main.go:35","msg":"test log: 119"}
+{"level":"error","ts":1545067961.5268946,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 119","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067962.5076766,"caller":"go-elk/main.go:35","msg":"test log: 120"}
+{"level":"info","ts":1545067963.5157568,"caller":"go-elk/main.go:35","msg":"test log: 121"}
+{"level":"info","ts":1545067964.5200155,"caller":"go-elk/main.go:35","msg":"test log: 122"}
+{"level":"info","ts":1545067965.5210383,"caller":"go-elk/main.go:35","msg":"test log: 123"}
+{"level":"error","ts":1545067965.522139,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 123","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067966.5263908,"caller":"go-elk/main.go:35","msg":"test log: 124"}
+{"level":"info","ts":1545067967.5304456,"caller":"go-elk/main.go:35","msg":"test log: 125"}
+{"level":"info","ts":1545067968.5335732,"caller":"go-elk/main.go:35","msg":"test log: 126"}
+{"level":"info","ts":1545067969.5380404,"caller":"go-elk/main.go:35","msg":"test log: 127"}
+{"level":"info","ts":1545067970.542075,"caller":"go-elk/main.go:35","msg":"test log: 128"}
+{"level":"info","ts":1545067971.5440514,"caller":"go-elk/main.go:35","msg":"test log: 129"}
+{"level":"info","ts":1545067972.553726,"caller":"go-elk/main.go:35","msg":"test log: 130"}
+{"level":"error","ts":1545067972.5746777,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 130","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067973.5802014,"caller":"go-elk/main.go:35","msg":"test log: 131"}
+{"level":"info","ts":1545067974.5836005,"caller":"go-elk/main.go:35","msg":"test log: 132"}
+{"level":"info","ts":1545067975.5852726,"caller":"go-elk/main.go:35","msg":"test log: 133"}
+{"level":"info","ts":1545067976.5947394,"caller":"go-elk/main.go:35","msg":"test log: 134"}
+{"level":"info","ts":1545067977.6008933,"caller":"go-elk/main.go:35","msg":"test log: 135"}
+{"level":"info","ts":1545067978.6029682,"caller":"go-elk/main.go:35","msg":"test log: 136"}
+{"level":"info","ts":1545067979.6063933,"caller":"go-elk/main.go:35","msg":"test log: 137"}
+{"level":"info","ts":1545067980.6084683,"caller":"go-elk/main.go:35","msg":"test log: 138"}
+{"level":"info","ts":1545067981.6097238,"caller":"go-elk/main.go:35","msg":"test log: 139"}
+{"level":"info","ts":1545067982.6148481,"caller":"go-elk/main.go:35","msg":"test log: 140"}
+{"level":"info","ts":1545067983.6255794,"caller":"go-elk/main.go:35","msg":"test log: 141"}
+{"level":"info","ts":1545067984.6308699,"caller":"go-elk/main.go:35","msg":"test log: 142"}
+{"level":"info","ts":1545067985.6321084,"caller":"go-elk/main.go:35","msg":"test log: 143"}
+{"level":"info","ts":1545067986.642966,"caller":"go-elk/main.go:35","msg":"test log: 144"}
+{"level":"info","ts":1545067987.6492019,"caller":"go-elk/main.go:35","msg":"test log: 145"}
+{"level":"info","ts":1545067988.6502852,"caller":"go-elk/main.go:35","msg":"test log: 146"}
+{"level":"info","ts":1545067989.6553357,"caller":"go-elk/main.go:35","msg":"test log: 147"}
+{"level":"info","ts":1545067990.6608124,"caller":"go-elk/main.go:35","msg":"test log: 148"}
+{"level":"info","ts":1545067991.641279,"caller":"go-elk/main.go:35","msg":"test log: 149"}
+{"level":"error","ts":1545067991.642475,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 149","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067992.6528013,"caller":"go-elk/main.go:35","msg":"test log: 150"}
+{"level":"info","ts":1545067993.662246,"caller":"go-elk/main.go:35","msg":"test log: 151"}
+{"level":"info","ts":1545067994.6671083,"caller":"go-elk/main.go:35","msg":"test log: 152"}
+{"level":"error","ts":1545067994.6686032,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 152","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545067995.6716979,"caller":"go-elk/main.go:35","msg":"test log: 153"}
+{"level":"info","ts":1545067996.6807945,"caller":"go-elk/main.go:35","msg":"test log: 154"}
+{"level":"info","ts":1545067997.6854122,"caller":"go-elk/main.go:35","msg":"test log: 155"}
+{"level":"info","ts":1545067998.6868901,"caller":"go-elk/main.go:35","msg":"test log: 156"}
+{"level":"info","ts":1545067999.6917288,"caller":"go-elk/main.go:35","msg":"test log: 157"}
+{"level":"error","ts":1545067999.6939442,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 157","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068000.6974494,"caller":"go-elk/main.go:35","msg":"test log: 158"}
+{"level":"info","ts":1545068001.7001336,"caller":"go-elk/main.go:35","msg":"test log: 159"}
+{"level":"info","ts":1545068002.7043078,"caller":"go-elk/main.go:35","msg":"test log: 160"}
+{"level":"info","ts":1545068003.7100637,"caller":"go-elk/main.go:35","msg":"test log: 161"}
+{"level":"info","ts":1545068004.7122262,"caller":"go-elk/main.go:35","msg":"test log: 162"}
+{"level":"error","ts":1545068004.71324,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 162","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068005.7162366,"caller":"go-elk/main.go:35","msg":"test log: 163"}
+{"level":"info","ts":1545068006.7227817,"caller":"go-elk/main.go:35","msg":"test log: 164"}
+{"level":"info","ts":1545068007.7265248,"caller":"go-elk/main.go:35","msg":"test log: 165"}
+{"level":"info","ts":1545068008.728162,"caller":"go-elk/main.go:35","msg":"test log: 166"}
+{"level":"info","ts":1545068009.732252,"caller":"go-elk/main.go:35","msg":"test log: 167"}
+{"level":"info","ts":1545068010.7367156,"caller":"go-elk/main.go:35","msg":"test log: 168"}
+{"level":"info","ts":1545068011.74105,"caller":"go-elk/main.go:35","msg":"test log: 169"}
+{"level":"info","ts":1545068012.7447643,"caller":"go-elk/main.go:35","msg":"test log: 170"}
+{"level":"info","ts":1545068013.7538884,"caller":"go-elk/main.go:35","msg":"test log: 171"}
+{"level":"info","ts":1545068014.75805,"caller":"go-elk/main.go:35","msg":"test log: 172"}
+{"level":"info","ts":1545068015.758718,"caller":"go-elk/main.go:35","msg":"test log: 173"}
+{"level":"info","ts":1545068016.7628112,"caller":"go-elk/main.go:35","msg":"test log: 174"}
+{"level":"info","ts":1545068017.7676766,"caller":"go-elk/main.go:35","msg":"test log: 175"}
+{"level":"info","ts":1545068018.7699723,"caller":"go-elk/main.go:35","msg":"test log: 176"}
+{"level":"info","ts":1545068019.7752683,"caller":"go-elk/main.go:35","msg":"test log: 177"}
+{"level":"info","ts":1545068020.778525,"caller":"go-elk/main.go:35","msg":"test log: 178"}
+{"level":"info","ts":1545068021.7592278,"caller":"go-elk/main.go:35","msg":"test log: 179"}
+{"level":"error","ts":1545068021.7644687,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 179","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068022.7719622,"caller":"go-elk/main.go:35","msg":"test log: 180"}
+{"level":"info","ts":1545068023.7776847,"caller":"go-elk/main.go:35","msg":"test log: 181"}
+{"level":"info","ts":1545068024.7804313,"caller":"go-elk/main.go:35","msg":"test log: 182"}
+{"level":"info","ts":1545068025.7825615,"caller":"go-elk/main.go:35","msg":"test log: 183"}
+{"level":"info","ts":1545068026.7894018,"caller":"go-elk/main.go:35","msg":"test log: 184"}
+{"level":"info","ts":1545068027.7957342,"caller":"go-elk/main.go:35","msg":"test log: 185"}
+{"level":"info","ts":1545068028.7979624,"caller":"go-elk/main.go:35","msg":"test log: 186"}
+{"level":"info","ts":1545068029.802,"caller":"go-elk/main.go:35","msg":"test log: 187"}
+{"level":"info","ts":1545068030.8099656,"caller":"go-elk/main.go:35","msg":"test log: 188"}
+{"level":"info","ts":1545068031.8163083,"caller":"go-elk/main.go:35","msg":"test log: 189"}
+{"level":"info","ts":1545068032.8203752,"caller":"go-elk/main.go:35","msg":"test log: 190"}
+{"level":"info","ts":1545068033.8293085,"caller":"go-elk/main.go:35","msg":"test log: 191"}
+{"level":"info","ts":1545068034.8364077,"caller":"go-elk/main.go:35","msg":"test log: 192"}
+{"level":"info","ts":1545068035.838705,"caller":"go-elk/main.go:35","msg":"test log: 193"}
+{"level":"info","ts":1545068036.849064,"caller":"go-elk/main.go:35","msg":"test log: 194"}
+{"level":"info","ts":1545068037.8609076,"caller":"go-elk/main.go:35","msg":"test log: 195"}
+{"level":"info","ts":1545068038.8662567,"caller":"go-elk/main.go:35","msg":"test log: 196"}
+{"level":"info","ts":1545068039.8715847,"caller":"go-elk/main.go:35","msg":"test log: 197"}
+{"level":"info","ts":1545068040.876055,"caller":"go-elk/main.go:35","msg":"test log: 198"}
+{"level":"info","ts":1545068041.8816938,"caller":"go-elk/main.go:35","msg":"test log: 199"}
+{"level":"info","ts":1545068042.884828,"caller":"go-elk/main.go:35","msg":"test log: 200"}
+{"level":"info","ts":1545068043.8928678,"caller":"go-elk/main.go:35","msg":"test log: 201"}
+{"level":"info","ts":1545068044.901401,"caller":"go-elk/main.go:35","msg":"test log: 202"}
+{"level":"info","ts":1545068045.9040701,"caller":"go-elk/main.go:35","msg":"test log: 203"}
+{"level":"error","ts":1545068045.905112,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 203","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068046.9142218,"caller":"go-elk/main.go:35","msg":"test log: 204"}
+{"level":"info","ts":1545068047.9198208,"caller":"go-elk/main.go:35","msg":"test log: 205"}
+{"level":"info","ts":1545068048.9254057,"caller":"go-elk/main.go:35","msg":"test log: 206"}
+{"level":"info","ts":1545068049.9294236,"caller":"go-elk/main.go:35","msg":"test log: 207"}
+{"level":"info","ts":1545068050.9340131,"caller":"go-elk/main.go:35","msg":"test log: 208"}
+{"level":"info","ts":1545068051.921921,"caller":"go-elk/main.go:35","msg":"test log: 209"}
+{"level":"info","ts":1545068052.9277465,"caller":"go-elk/main.go:35","msg":"test log: 210"}
+{"level":"info","ts":1545068053.9355917,"caller":"go-elk/main.go:35","msg":"test log: 211"}
+{"level":"info","ts":1545068054.9408448,"caller":"go-elk/main.go:35","msg":"test log: 212"}
+{"level":"error","ts":1545068054.9424033,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 212","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068055.9443479,"caller":"go-elk/main.go:35","msg":"test log: 213"}
+{"level":"info","ts":1545068056.949307,"caller":"go-elk/main.go:35","msg":"test log: 214"}
+{"level":"info","ts":1545068057.955453,"caller":"go-elk/main.go:35","msg":"test log: 215"}
+{"level":"info","ts":1545068058.965747,"caller":"go-elk/main.go:35","msg":"test log: 216"}
+{"level":"info","ts":1545068059.9748352,"caller":"go-elk/main.go:35","msg":"test log: 217"}
+{"level":"info","ts":1545068060.9842014,"caller":"go-elk/main.go:35","msg":"test log: 218"}
+{"level":"info","ts":1545068061.9939258,"caller":"go-elk/main.go:35","msg":"test log: 219"}
+{"level":"info","ts":1545068062.9997082,"caller":"go-elk/main.go:35","msg":"test log: 220"}
+{"level":"info","ts":1545068064.0043266,"caller":"go-elk/main.go:35","msg":"test log: 221"}
+{"level":"info","ts":1545068065.0097694,"caller":"go-elk/main.go:35","msg":"test log: 222"}
+{"level":"error","ts":1545068065.0115137,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 222","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068066.016396,"caller":"go-elk/main.go:35","msg":"test log: 223"}
+{"level":"info","ts":1545068067.0226204,"caller":"go-elk/main.go:35","msg":"test log: 224"}
+{"level":"info","ts":1545068068.1337888,"caller":"go-elk/main.go:35","msg":"test log: 225"}
+{"level":"info","ts":1545068069.2549987,"caller":"go-elk/main.go:35","msg":"test log: 226"}
+{"level":"info","ts":1545068070.3989863,"caller":"go-elk/main.go:35","msg":"test log: 227"}
+{"level":"info","ts":1545068071.4382522,"caller":"go-elk/main.go:35","msg":"test log: 228"}
+{"level":"info","ts":1545068072.495679,"caller":"go-elk/main.go:35","msg":"test log: 229"}
+{"level":"info","ts":1545068073.604536,"caller":"go-elk/main.go:35","msg":"test log: 230"}
+{"level":"info","ts":1545068074.754004,"caller":"go-elk/main.go:35","msg":"test log: 231"}
+{"level":"info","ts":1545068075.8860326,"caller":"go-elk/main.go:35","msg":"test log: 232"}
+{"level":"info","ts":1545068076.9661899,"caller":"go-elk/main.go:35","msg":"test log: 233"}
+{"level":"info","ts":1545068078.049811,"caller":"go-elk/main.go:35","msg":"test log: 234"}
+{"level":"info","ts":1545068079.0934298,"caller":"go-elk/main.go:35","msg":"test log: 235"}
+{"level":"error","ts":1545068079.127229,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 235","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068080.2385032,"caller":"go-elk/main.go:35","msg":"test log: 236"}
+{"level":"info","ts":1545068081.2686086,"caller":"go-elk/main.go:35","msg":"test log: 237"}
+{"level":"info","ts":1545068082.2960086,"caller":"go-elk/main.go:35","msg":"test log: 238"}
+{"level":"info","ts":1545068083.3495452,"caller":"go-elk/main.go:35","msg":"test log: 239"}
+{"level":"info","ts":1545068084.4825912,"caller":"go-elk/main.go:35","msg":"test log: 240"}
+{"level":"info","ts":1545068085.5941172,"caller":"go-elk/main.go:35","msg":"test log: 241"}
+{"level":"info","ts":1545068086.6567633,"caller":"go-elk/main.go:35","msg":"test log: 242"}
+{"level":"error","ts":1545068086.8289142,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 242","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068088.0175216,"caller":"go-elk/main.go:35","msg":"test log: 243"}
+{"level":"error","ts":1545068088.0537677,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 243","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068089.1380248,"caller":"go-elk/main.go:35","msg":"test log: 244"}
+{"level":"info","ts":1545068090.5040417,"caller":"go-elk/main.go:35","msg":"test log: 245"}
+{"level":"info","ts":1545068091.6796148,"caller":"go-elk/main.go:35","msg":"test log: 246"}
+{"level":"info","ts":1545068092.7468534,"caller":"go-elk/main.go:35","msg":"test log: 247"}
+{"level":"info","ts":1545068093.7813547,"caller":"go-elk/main.go:35","msg":"test log: 248"}
+{"level":"info","ts":1545068094.9165297,"caller":"go-elk/main.go:35","msg":"test log: 249"}
+{"level":"info","ts":1545068096.0499902,"caller":"go-elk/main.go:35","msg":"test log: 250"}
+{"level":"error","ts":1545068096.330222,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 250","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068097.8550167,"caller":"go-elk/main.go:35","msg":"test log: 251"}
+{"level":"info","ts":1545068099.020585,"caller":"go-elk/main.go:35","msg":"test log: 252"}
+{"level":"info","ts":1545068100.410426,"caller":"go-elk/main.go:35","msg":"test log: 253"}
+{"level":"info","ts":1545068101.5365603,"caller":"go-elk/main.go:35","msg":"test log: 254"}
+{"level":"info","ts":1545068102.8097217,"caller":"go-elk/main.go:35","msg":"test log: 255"}
+{"level":"info","ts":1545068103.8423393,"caller":"go-elk/main.go:35","msg":"test log: 256"}
+{"level":"info","ts":1545068104.8793433,"caller":"go-elk/main.go:35","msg":"test log: 257"}
+{"level":"info","ts":1545068105.906545,"caller":"go-elk/main.go:35","msg":"test log: 258"}
+{"level":"info","ts":1545068106.9304385,"caller":"go-elk/main.go:35","msg":"test log: 259"}
+{"level":"info","ts":1545068107.9584305,"caller":"go-elk/main.go:35","msg":"test log: 260"}
+{"level":"info","ts":1545068108.986336,"caller":"go-elk/main.go:35","msg":"test log: 261"}
+{"level":"info","ts":1545068110.0218282,"caller":"go-elk/main.go:35","msg":"test log: 262"}
+{"level":"info","ts":1545068111.1016219,"caller":"go-elk/main.go:35","msg":"test log: 263"}
+{"level":"info","ts":1545068112.1174605,"caller":"go-elk/main.go:35","msg":"test log: 264"}
+{"level":"info","ts":1545068113.183803,"caller":"go-elk/main.go:35","msg":"test log: 265"}
+{"level":"error","ts":1545068113.3280034,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 265","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068114.3574886,"caller":"go-elk/main.go:35","msg":"test log: 266"}
+{"level":"info","ts":1545068115.4122412,"caller":"go-elk/main.go:35","msg":"test log: 267"}
+{"level":"info","ts":1545068116.5426195,"caller":"go-elk/main.go:35","msg":"test log: 268"}
+{"level":"info","ts":1545068117.5706658,"caller":"go-elk/main.go:35","msg":"test log: 269"}
+{"level":"info","ts":1545068118.60815,"caller":"go-elk/main.go:35","msg":"test log: 270"}
+{"level":"info","ts":1545068119.6530273,"caller":"go-elk/main.go:35","msg":"test log: 271"}
+{"level":"info","ts":1545068120.700976,"caller":"go-elk/main.go:35","msg":"test log: 272"}
+{"level":"info","ts":1545068121.7432947,"caller":"go-elk/main.go:35","msg":"test log: 273"}
+{"level":"info","ts":1545068122.7766924,"caller":"go-elk/main.go:35","msg":"test log: 274"}
+{"level":"info","ts":1545068123.7873955,"caller":"go-elk/main.go:35","msg":"test log: 275"}
+{"level":"info","ts":1545068124.7981284,"caller":"go-elk/main.go:35","msg":"test log: 276"}
+{"level":"info","ts":1545068125.808806,"caller":"go-elk/main.go:35","msg":"test log: 277"}
+{"level":"info","ts":1545068126.815499,"caller":"go-elk/main.go:35","msg":"test log: 278"}
+{"level":"info","ts":1545068127.8219771,"caller":"go-elk/main.go:35","msg":"test log: 279"}
+{"level":"info","ts":1545068128.8275957,"caller":"go-elk/main.go:35","msg":"test log: 280"}
+{"level":"info","ts":1545068129.8339863,"caller":"go-elk/main.go:35","msg":"test log: 281"}
+{"level":"info","ts":1545068130.8393335,"caller":"go-elk/main.go:35","msg":"test log: 282"}
+{"level":"info","ts":1545068131.8445127,"caller":"go-elk/main.go:35","msg":"test log: 283"}
+{"level":"info","ts":1545068132.8518655,"caller":"go-elk/main.go:35","msg":"test log: 284"}
+{"level":"error","ts":1545068132.8557167,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 284","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068133.860734,"caller":"go-elk/main.go:35","msg":"test log: 285"}
+{"level":"info","ts":1545068134.8677006,"caller":"go-elk/main.go:35","msg":"test log: 286"}
+{"level":"error","ts":1545068134.88301,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 286","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068135.90191,"caller":"go-elk/main.go:35","msg":"test log: 287"}
+{"level":"info","ts":1545068136.9479303,"caller":"go-elk/main.go:35","msg":"test log: 288"}
+{"level":"info","ts":1545068137.9785106,"caller":"go-elk/main.go:35","msg":"test log: 289"}
+{"level":"info","ts":1545068138.9836845,"caller":"go-elk/main.go:35","msg":"test log: 290"}
+{"level":"info","ts":1545068139.9930034,"caller":"go-elk/main.go:35","msg":"test log: 291"}
+{"level":"info","ts":1545068140.9983084,"caller":"go-elk/main.go:35","msg":"test log: 292"}
+{"level":"error","ts":1545068141.000641,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 292","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068141.9855194,"caller":"go-elk/main.go:35","msg":"test log: 293"}
+{"level":"error","ts":1545068141.9876595,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 293","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068142.9923096,"caller":"go-elk/main.go:35","msg":"test log: 294"}
+{"level":"info","ts":1545068143.9995909,"caller":"go-elk/main.go:35","msg":"test log: 295"}
+{"level":"error","ts":1545068144.0035067,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 295","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068145.008265,"caller":"go-elk/main.go:35","msg":"test log: 296"}
+{"level":"info","ts":1545068146.0226371,"caller":"go-elk/main.go:35","msg":"test log: 297"}
+{"level":"info","ts":1545068147.036957,"caller":"go-elk/main.go:35","msg":"test log: 298"}
+{"level":"info","ts":1545068148.041992,"caller":"go-elk/main.go:35","msg":"test log: 299"}
+{"level":"info","ts":1545068149.0469663,"caller":"go-elk/main.go:35","msg":"test log: 300"}
+{"level":"info","ts":1545068150.0534613,"caller":"go-elk/main.go:35","msg":"test log: 301"}
+{"level":"info","ts":1545068151.0586221,"caller":"go-elk/main.go:35","msg":"test log: 302"}
+{"level":"info","ts":1545068152.0640872,"caller":"go-elk/main.go:35","msg":"test log: 303"}
+{"level":"info","ts":1545068153.0713239,"caller":"go-elk/main.go:35","msg":"test log: 304"}
+{"level":"info","ts":1545068154.0834498,"caller":"go-elk/main.go:35","msg":"test log: 305"}
+{"level":"info","ts":1545068155.1007633,"caller":"go-elk/main.go:35","msg":"test log: 306"}
+{"level":"info","ts":1545068156.1120837,"caller":"go-elk/main.go:35","msg":"test log: 307"}
+{"level":"info","ts":1545068157.1203773,"caller":"go-elk/main.go:35","msg":"test log: 308"}
+{"level":"info","ts":1545068158.1462047,"caller":"go-elk/main.go:35","msg":"test log: 309"}
+{"level":"info","ts":1545068159.1889296,"caller":"go-elk/main.go:35","msg":"test log: 310"}
+{"level":"info","ts":1545068160.22412,"caller":"go-elk/main.go:35","msg":"test log: 311"}
+{"level":"info","ts":1545068161.276854,"caller":"go-elk/main.go:35","msg":"test log: 312"}
+{"level":"info","ts":1545068162.316608,"caller":"go-elk/main.go:35","msg":"test log: 313"}
+{"level":"info","ts":1545068163.3821533,"caller":"go-elk/main.go:35","msg":"test log: 314"}
+{"level":"info","ts":1545068164.4297848,"caller":"go-elk/main.go:35","msg":"test log: 315"}
+{"level":"info","ts":1545068165.4595814,"caller":"go-elk/main.go:35","msg":"test log: 316"}
+{"level":"info","ts":1545068166.4974995,"caller":"go-elk/main.go:35","msg":"test log: 317"}
+{"level":"info","ts":1545068167.5330606,"caller":"go-elk/main.go:35","msg":"test log: 318"}
+{"level":"info","ts":1545068168.5557606,"caller":"go-elk/main.go:35","msg":"test log: 319"}
+{"level":"info","ts":1545068169.5879617,"caller":"go-elk/main.go:35","msg":"test log: 320"}
+{"level":"info","ts":1545068170.635854,"caller":"go-elk/main.go:35","msg":"test log: 321"}
+{"level":"info","ts":1545068171.7206817,"caller":"go-elk/main.go:35","msg":"test log: 322"}
+{"level":"info","ts":1545068172.8109775,"caller":"go-elk/main.go:35","msg":"test log: 323"}
+{"level":"error","ts":1545068172.9729197,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 323","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068174.0069084,"caller":"go-elk/main.go:35","msg":"test log: 324"}
+{"level":"info","ts":1545068175.0374837,"caller":"go-elk/main.go:35","msg":"test log: 325"}
+{"level":"info","ts":1545068176.0766282,"caller":"go-elk/main.go:35","msg":"test log: 326"}
+{"level":"info","ts":1545068177.1146083,"caller":"go-elk/main.go:35","msg":"test log: 327"}
+{"level":"info","ts":1545068178.1786075,"caller":"go-elk/main.go:35","msg":"test log: 328"}
+{"level":"info","ts":1545068179.2194796,"caller":"go-elk/main.go:35","msg":"test log: 329"}
+{"level":"info","ts":1545068180.2939591,"caller":"go-elk/main.go:35","msg":"test log: 330"}
+{"level":"info","ts":1545068181.3128545,"caller":"go-elk/main.go:35","msg":"test log: 331"}
+{"level":"info","ts":1545068182.3533316,"caller":"go-elk/main.go:35","msg":"test log: 332"}
+{"level":"error","ts":1545068182.3922644,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 332","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068183.418673,"caller":"go-elk/main.go:35","msg":"test log: 333"}
+{"level":"info","ts":1545068184.481193,"caller":"go-elk/main.go:35","msg":"test log: 334"}
+{"level":"info","ts":1545068185.5212698,"caller":"go-elk/main.go:35","msg":"test log: 335"}
+{"level":"info","ts":1545068186.5464,"caller":"go-elk/main.go:35","msg":"test log: 336"}
+{"level":"info","ts":1545068187.62014,"caller":"go-elk/main.go:35","msg":"test log: 337"}
+{"level":"info","ts":1545068188.7741895,"caller":"go-elk/main.go:35","msg":"test log: 338"}
+{"level":"info","ts":1545068189.9865012,"caller":"go-elk/main.go:35","msg":"test log: 339"}
+{"level":"info","ts":1545068191.1502762,"caller":"go-elk/main.go:35","msg":"test log: 340"}
+{"level":"info","ts":1545068192.2010956,"caller":"go-elk/main.go:35","msg":"test log: 341"}
+{"level":"info","ts":1545068193.2264884,"caller":"go-elk/main.go:35","msg":"test log: 342"}
+{"level":"error","ts":1545068193.240952,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 342","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068194.2696602,"caller":"go-elk/main.go:35","msg":"test log: 343"}
+{"level":"info","ts":1545068195.3073227,"caller":"go-elk/main.go:35","msg":"test log: 344"}
+{"level":"info","ts":1545068196.3777745,"caller":"go-elk/main.go:35","msg":"test log: 345"}
+{"level":"info","ts":1545068197.4135685,"caller":"go-elk/main.go:35","msg":"test log: 346"}
+{"level":"error","ts":1545068197.4181726,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 346","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068198.443423,"caller":"go-elk/main.go:35","msg":"test log: 347"}
+{"level":"info","ts":1545068199.4758267,"caller":"go-elk/main.go:35","msg":"test log: 348"}
+{"level":"info","ts":1545068200.5345674,"caller":"go-elk/main.go:35","msg":"test log: 349"}
+{"level":"info","ts":1545068201.5692456,"caller":"go-elk/main.go:35","msg":"test log: 350"}
+{"level":"error","ts":1545068201.6314833,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 350","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068202.7620487,"caller":"go-elk/main.go:35","msg":"test log: 351"}
+{"level":"info","ts":1545068203.8013892,"caller":"go-elk/main.go:35","msg":"test log: 352"}
+{"level":"info","ts":1545068204.8416758,"caller":"go-elk/main.go:35","msg":"test log: 353"}
+{"level":"info","ts":1545068205.883434,"caller":"go-elk/main.go:35","msg":"test log: 354"}
+{"level":"info","ts":1545068206.9457529,"caller":"go-elk/main.go:35","msg":"test log: 355"}
+{"level":"info","ts":1545068208.0326827,"caller":"go-elk/main.go:35","msg":"test log: 356"}
+{"level":"info","ts":1545068209.130558,"caller":"go-elk/main.go:35","msg":"test log: 357"}
+{"level":"info","ts":1545068210.2723129,"caller":"go-elk/main.go:35","msg":"test log: 358"}
+{"level":"info","ts":1545068211.3151224,"caller":"go-elk/main.go:35","msg":"test log: 359"}
+{"level":"info","ts":1545068212.3562553,"caller":"go-elk/main.go:35","msg":"test log: 360"}
+{"level":"info","ts":1545068213.4548776,"caller":"go-elk/main.go:35","msg":"test log: 361"}
+{"level":"info","ts":1545068214.4981613,"caller":"go-elk/main.go:35","msg":"test log: 362"}
+{"level":"info","ts":1545068215.525468,"caller":"go-elk/main.go:35","msg":"test log: 363"}
+{"level":"info","ts":1545068216.5709693,"caller":"go-elk/main.go:35","msg":"test log: 364"}
+{"level":"info","ts":1545068217.611961,"caller":"go-elk/main.go:35","msg":"test log: 365"}
+{"level":"info","ts":1545068218.632005,"caller":"go-elk/main.go:35","msg":"test log: 366"}
+{"level":"error","ts":1545068218.6377797,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 366","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068219.6519468,"caller":"go-elk/main.go:35","msg":"test log: 367"}
+{"level":"info","ts":1545068220.659895,"caller":"go-elk/main.go:35","msg":"test log: 368"}
+{"level":"info","ts":1545068221.6960528,"caller":"go-elk/main.go:35","msg":"test log: 369"}
+{"level":"info","ts":1545068222.7658067,"caller":"go-elk/main.go:35","msg":"test log: 370"}
+{"level":"info","ts":1545068223.7853203,"caller":"go-elk/main.go:35","msg":"test log: 371"}
+{"level":"info","ts":1545068224.8012135,"caller":"go-elk/main.go:35","msg":"test log: 372"}
+{"level":"info","ts":1545068225.8804245,"caller":"go-elk/main.go:35","msg":"test log: 373"}
+{"level":"info","ts":1545068226.9766238,"caller":"go-elk/main.go:35","msg":"test log: 374"}
+{"level":"info","ts":1545068227.9941342,"caller":"go-elk/main.go:35","msg":"test log: 375"}
+{"level":"info","ts":1545068229.0992103,"caller":"go-elk/main.go:35","msg":"test log: 376"}
+{"level":"info","ts":1545068230.167793,"caller":"go-elk/main.go:35","msg":"test log: 377"}
+{"level":"info","ts":1545068231.313592,"caller":"go-elk/main.go:35","msg":"test log: 378"}
+{"level":"info","ts":1545068232.5096607,"caller":"go-elk/main.go:35","msg":"test log: 379"}
+{"level":"info","ts":1545068233.579522,"caller":"go-elk/main.go:35","msg":"test log: 380"}
+{"level":"info","ts":1545068234.7197697,"caller":"go-elk/main.go:35","msg":"test log: 381"}
+{"level":"error","ts":1545068234.9127545,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 381","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068236.0205991,"caller":"go-elk/main.go:35","msg":"test log: 382"}
+{"level":"info","ts":1545068237.134474,"caller":"go-elk/main.go:35","msg":"test log: 383"}
+{"level":"info","ts":1545068238.2191076,"caller":"go-elk/main.go:35","msg":"test log: 384"}
+{"level":"info","ts":1545068239.3527489,"caller":"go-elk/main.go:35","msg":"test log: 385"}
+{"level":"error","ts":1545068239.3995514,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 385","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068240.6469865,"caller":"go-elk/main.go:35","msg":"test log: 386"}
+{"level":"info","ts":1545068241.8075151,"caller":"go-elk/main.go:35","msg":"test log: 387"}
+{"level":"info","ts":1545068242.831671,"caller":"go-elk/main.go:35","msg":"test log: 388"}
+{"level":"info","ts":1545068243.9018419,"caller":"go-elk/main.go:35","msg":"test log: 389"}
+{"level":"info","ts":1545068245.0688155,"caller":"go-elk/main.go:35","msg":"test log: 390"}
+{"level":"info","ts":1545068246.1448064,"caller":"go-elk/main.go:35","msg":"test log: 391"}
+{"level":"info","ts":1545068247.5123644,"caller":"go-elk/main.go:35","msg":"test log: 392"}
+{"level":"info","ts":1545068248.5798848,"caller":"go-elk/main.go:35","msg":"test log: 393"}
+{"level":"info","ts":1545068249.6265154,"caller":"go-elk/main.go:35","msg":"test log: 394"}
+{"level":"info","ts":1545068250.755889,"caller":"go-elk/main.go:35","msg":"test log: 395"}
+{"level":"info","ts":1545068251.8445873,"caller":"go-elk/main.go:35","msg":"test log: 396"}
+{"level":"error","ts":1545068251.9848707,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 396","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068253.020846,"caller":"go-elk/main.go:35","msg":"test log: 397"}
+{"level":"info","ts":1545068254.0961168,"caller":"go-elk/main.go:35","msg":"test log: 398"}
+{"level":"info","ts":1545068255.1706705,"caller":"go-elk/main.go:35","msg":"test log: 399"}
+{"level":"info","ts":1545068256.304489,"caller":"go-elk/main.go:35","msg":"test log: 400"}
+{"level":"info","ts":1545068257.3663871,"caller":"go-elk/main.go:35","msg":"test log: 401"}
+{"level":"info","ts":1545068258.43636,"caller":"go-elk/main.go:35","msg":"test log: 402"}
+{"level":"info","ts":1545068259.5014815,"caller":"go-elk/main.go:35","msg":"test log: 403"}
+{"level":"info","ts":1545068260.54069,"caller":"go-elk/main.go:35","msg":"test log: 404"}
+{"level":"info","ts":1545068261.6587443,"caller":"go-elk/main.go:35","msg":"test log: 405"}
+{"level":"info","ts":1545068262.7021458,"caller":"go-elk/main.go:35","msg":"test log: 406"}
+{"level":"info","ts":1545068263.7465212,"caller":"go-elk/main.go:35","msg":"test log: 407"}
+{"level":"info","ts":1545068264.7806425,"caller":"go-elk/main.go:35","msg":"test log: 408"}
+{"level":"info","ts":1545068265.8251727,"caller":"go-elk/main.go:35","msg":"test log: 409"}
+{"level":"info","ts":1545068266.8534622,"caller":"go-elk/main.go:35","msg":"test log: 410"}
+{"level":"info","ts":1545068267.904288,"caller":"go-elk/main.go:35","msg":"test log: 411"}
+{"level":"info","ts":1545068269.0455406,"caller":"go-elk/main.go:35","msg":"test log: 412"}
+{"level":"info","ts":1545068270.1998825,"caller":"go-elk/main.go:35","msg":"test log: 413"}
+{"level":"info","ts":1545068271.324961,"caller":"go-elk/main.go:35","msg":"test log: 414"}
+{"level":"info","ts":1545068272.6208444,"caller":"go-elk/main.go:35","msg":"test log: 415"}
+{"level":"info","ts":1545068273.820177,"caller":"go-elk/main.go:35","msg":"test log: 416"}
+{"level":"info","ts":1545068274.8727067,"caller":"go-elk/main.go:35","msg":"test log: 417"}
+{"level":"info","ts":1545068275.937235,"caller":"go-elk/main.go:35","msg":"test log: 418"}
+{"level":"info","ts":1545068276.9827514,"caller":"go-elk/main.go:35","msg":"test log: 419"}
+{"level":"info","ts":1545068278.0989547,"caller":"go-elk/main.go:35","msg":"test log: 420"}
+{"level":"info","ts":1545068279.1589205,"caller":"go-elk/main.go:35","msg":"test log: 421"}
+{"level":"error","ts":1545068279.199946,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 421","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068280.2677865,"caller":"go-elk/main.go:35","msg":"test log: 422"}
+{"level":"error","ts":1545068280.3279123,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 422","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068281.4841983,"caller":"go-elk/main.go:35","msg":"test log: 423"}
+{"level":"error","ts":1545068281.5082881,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 423","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068282.5869727,"caller":"go-elk/main.go:35","msg":"test log: 424"}
+{"level":"info","ts":1545068283.7090967,"caller":"go-elk/main.go:35","msg":"test log: 425"}
+{"level":"info","ts":1545068284.7586222,"caller":"go-elk/main.go:35","msg":"test log: 426"}
+{"level":"info","ts":1545068285.9688919,"caller":"go-elk/main.go:35","msg":"test log: 427"}
+{"level":"info","ts":1545068286.985771,"caller":"go-elk/main.go:35","msg":"test log: 428"}
+{"level":"info","ts":1545068288.0825808,"caller":"go-elk/main.go:35","msg":"test log: 429"}
+{"level":"info","ts":1545068289.1057017,"caller":"go-elk/main.go:35","msg":"test log: 430"}
+{"level":"info","ts":1545068290.1993902,"caller":"go-elk/main.go:35","msg":"test log: 431"}
+{"level":"info","ts":1545068291.3618557,"caller":"go-elk/main.go:35","msg":"test log: 432"}
+{"level":"info","ts":1545068292.724551,"caller":"go-elk/main.go:35","msg":"test log: 433"}
+{"level":"info","ts":1545068293.9503417,"caller":"go-elk/main.go:35","msg":"test log: 434"}
+{"level":"info","ts":1545068295.0091393,"caller":"go-elk/main.go:35","msg":"test log: 435"}
+{"level":"info","ts":1545068296.1060562,"caller":"go-elk/main.go:35","msg":"test log: 436"}
+{"level":"info","ts":1545068297.3152115,"caller":"go-elk/main.go:35","msg":"test log: 437"}
+{"level":"info","ts":1545068298.3512788,"caller":"go-elk/main.go:35","msg":"test log: 438"}
+{"level":"info","ts":1545068299.387236,"caller":"go-elk/main.go:35","msg":"test log: 439"}
+{"level":"info","ts":1545068300.4411883,"caller":"go-elk/main.go:35","msg":"test log: 440"}
+{"level":"info","ts":1545068301.4743905,"caller":"go-elk/main.go:35","msg":"test log: 441"}
+{"level":"info","ts":1545068302.6891713,"caller":"go-elk/main.go:35","msg":"test log: 442"}
+{"level":"info","ts":1545068303.7583032,"caller":"go-elk/main.go:35","msg":"test log: 443"}
+{"level":"info","ts":1545068304.8713548,"caller":"go-elk/main.go:35","msg":"test log: 444"}
+{"level":"info","ts":1545068305.9854484,"caller":"go-elk/main.go:35","msg":"test log: 445"}
+{"level":"info","ts":1545068307.3292067,"caller":"go-elk/main.go:35","msg":"test log: 446"}
+{"level":"info","ts":1545068308.3842793,"caller":"go-elk/main.go:35","msg":"test log: 447"}
+{"level":"info","ts":1545068309.5009453,"caller":"go-elk/main.go:35","msg":"test log: 448"}
+{"level":"info","ts":1545068310.6492248,"caller":"go-elk/main.go:35","msg":"test log: 449"}
+{"level":"info","ts":1545068311.7451074,"caller":"go-elk/main.go:35","msg":"test log: 450"}
+{"level":"info","ts":1545068312.8027518,"caller":"go-elk/main.go:35","msg":"test log: 451"}
+{"level":"info","ts":1545068314.0235915,"caller":"go-elk/main.go:35","msg":"test log: 452"}
+{"level":"info","ts":1545068315.1029816,"caller":"go-elk/main.go:35","msg":"test log: 453"}
+{"level":"info","ts":1545068316.1594107,"caller":"go-elk/main.go:35","msg":"test log: 454"}
+{"level":"info","ts":1545068317.2978084,"caller":"go-elk/main.go:35","msg":"test log: 455"}
+{"level":"info","ts":1545068318.3861258,"caller":"go-elk/main.go:35","msg":"test log: 456"}
+{"level":"error","ts":1545068318.4923902,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 456","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068319.5585656,"caller":"go-elk/main.go:35","msg":"test log: 457"}
+{"level":"info","ts":1545068320.6938453,"caller":"go-elk/main.go:35","msg":"test log: 458"}
+{"level":"info","ts":1545068321.752169,"caller":"go-elk/main.go:35","msg":"test log: 459"}
+{"level":"info","ts":1545068322.8328123,"caller":"go-elk/main.go:35","msg":"test log: 460"}
+{"level":"info","ts":1545068323.8933194,"caller":"go-elk/main.go:35","msg":"test log: 461"}
+{"level":"info","ts":1545068324.9916728,"caller":"go-elk/main.go:35","msg":"test log: 462"}
+{"level":"error","ts":1545068325.042029,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 462","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068326.1597023,"caller":"go-elk/main.go:35","msg":"test log: 463"}
+{"level":"info","ts":1545068327.411457,"caller":"go-elk/main.go:35","msg":"test log: 464"}
+{"level":"info","ts":1545068328.621136,"caller":"go-elk/main.go:35","msg":"test log: 465"}
+{"level":"info","ts":1545068329.6732993,"caller":"go-elk/main.go:35","msg":"test log: 466"}
+{"level":"error","ts":1545068329.8582659,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 466","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068330.9790843,"caller":"go-elk/main.go:35","msg":"test log: 467"}
+{"level":"info","ts":1545068332.102874,"caller":"go-elk/main.go:35","msg":"test log: 468"}
+{"level":"error","ts":1545068332.1810527,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 468","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068333.252126,"caller":"go-elk/main.go:35","msg":"test log: 469"}
+{"level":"info","ts":1545068334.4163437,"caller":"go-elk/main.go:35","msg":"test log: 470"}
+{"level":"info","ts":1545068335.6884034,"caller":"go-elk/main.go:35","msg":"test log: 471"}
+{"level":"info","ts":1545068336.7261286,"caller":"go-elk/main.go:35","msg":"test log: 472"}
+{"level":"info","ts":1545068337.7904158,"caller":"go-elk/main.go:35","msg":"test log: 473"}
+{"level":"error","ts":1545068337.8103683,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 473","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068338.9941282,"caller":"go-elk/main.go:35","msg":"test log: 474"}
+{"level":"info","ts":1545068340.2520454,"caller":"go-elk/main.go:35","msg":"test log: 475"}
+{"level":"info","ts":1545068341.4502885,"caller":"go-elk/main.go:35","msg":"test log: 476"}
+{"level":"info","ts":1545068342.5497947,"caller":"go-elk/main.go:35","msg":"test log: 477"}
+{"level":"info","ts":1545068344.0231316,"caller":"go-elk/main.go:35","msg":"test log: 478"}
+{"level":"info","ts":1545068345.207937,"caller":"go-elk/main.go:35","msg":"test log: 479"}
+{"level":"info","ts":1545068346.3213413,"caller":"go-elk/main.go:35","msg":"test log: 480"}
+{"level":"info","ts":1545068347.394595,"caller":"go-elk/main.go:35","msg":"test log: 481"}
+{"level":"info","ts":1545068348.5155668,"caller":"go-elk/main.go:35","msg":"test log: 482"}
+{"level":"info","ts":1545068349.8003938,"caller":"go-elk/main.go:35","msg":"test log: 483"}
+{"level":"info","ts":1545068350.8402596,"caller":"go-elk/main.go:35","msg":"test log: 484"}
+{"level":"info","ts":1545068351.8669767,"caller":"go-elk/main.go:35","msg":"test log: 485"}
+{"level":"info","ts":1545068352.987458,"caller":"go-elk/main.go:35","msg":"test log: 486"}
+{"level":"error","ts":1545068353.024453,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 486","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068354.099269,"caller":"go-elk/main.go:35","msg":"test log: 487"}
+{"level":"info","ts":1545068355.2206018,"caller":"go-elk/main.go:35","msg":"test log: 488"}
+{"level":"info","ts":1545068356.344687,"caller":"go-elk/main.go:35","msg":"test log: 489"}
+{"level":"info","ts":1545068357.4279752,"caller":"go-elk/main.go:35","msg":"test log: 490"}
+{"level":"info","ts":1545068358.492488,"caller":"go-elk/main.go:35","msg":"test log: 491"}
+{"level":"info","ts":1545068359.5433795,"caller":"go-elk/main.go:35","msg":"test log: 492"}
+{"level":"info","ts":1545068360.5826735,"caller":"go-elk/main.go:35","msg":"test log: 493"}
+{"level":"info","ts":1545068361.6093893,"caller":"go-elk/main.go:35","msg":"test log: 494"}
+{"level":"info","ts":1545068362.6508188,"caller":"go-elk/main.go:35","msg":"test log: 495"}
+{"level":"info","ts":1545068363.7324243,"caller":"go-elk/main.go:35","msg":"test log: 496"}
+{"level":"info","ts":1545068364.794923,"caller":"go-elk/main.go:35","msg":"test log: 497"}
+{"level":"info","ts":1545068365.8913455,"caller":"go-elk/main.go:35","msg":"test log: 498"}
+{"level":"info","ts":1545068366.9896305,"caller":"go-elk/main.go:35","msg":"test log: 499"}
+{"level":"info","ts":1545068368.0408669,"caller":"go-elk/main.go:35","msg":"test log: 500"}
+{"level":"info","ts":1545068369.076882,"caller":"go-elk/main.go:35","msg":"test log: 501"}
+{"level":"error","ts":1545068369.109583,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 501","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068370.1572301,"caller":"go-elk/main.go:35","msg":"test log: 502"}
+{"level":"info","ts":1545068371.279642,"caller":"go-elk/main.go:35","msg":"test log: 503"}
+{"level":"info","ts":1545068372.3348787,"caller":"go-elk/main.go:35","msg":"test log: 504"}
+{"level":"info","ts":1545068373.3963897,"caller":"go-elk/main.go:35","msg":"test log: 505"}
+{"level":"info","ts":1545068374.573463,"caller":"go-elk/main.go:35","msg":"test log: 506"}
+{"level":"info","ts":1545068375.6591725,"caller":"go-elk/main.go:35","msg":"test log: 507"}
+{"level":"error","ts":1545068375.7064552,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 507","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068376.7367961,"caller":"go-elk/main.go:35","msg":"test log: 508"}
+{"level":"info","ts":1545068377.790297,"caller":"go-elk/main.go:35","msg":"test log: 509"}
+{"level":"info","ts":1545068378.8493695,"caller":"go-elk/main.go:35","msg":"test log: 510"}
+{"level":"info","ts":1545068379.9753873,"caller":"go-elk/main.go:35","msg":"test log: 511"}
+{"level":"error","ts":1545068380.0523615,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 511","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068381.211291,"caller":"go-elk/main.go:35","msg":"test log: 512"}
+{"level":"info","ts":1545068382.2236593,"caller":"go-elk/main.go:35","msg":"test log: 513"}
+{"level":"error","ts":1545068382.2471397,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 513","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068383.274127,"caller":"go-elk/main.go:35","msg":"test log: 514"}
+{"level":"info","ts":1545068384.3001332,"caller":"go-elk/main.go:35","msg":"test log: 515"}
+{"level":"info","ts":1545068385.3209238,"caller":"go-elk/main.go:35","msg":"test log: 516"}
+{"level":"info","ts":1545068386.3471475,"caller":"go-elk/main.go:35","msg":"test log: 517"}
+{"level":"info","ts":1545068387.4213085,"caller":"go-elk/main.go:35","msg":"test log: 518"}
+{"level":"info","ts":1545068388.5104318,"caller":"go-elk/main.go:35","msg":"test log: 519"}
+{"level":"info","ts":1545068389.6399424,"caller":"go-elk/main.go:35","msg":"test log: 520"}
+{"level":"info","ts":1545068390.669461,"caller":"go-elk/main.go:35","msg":"test log: 521"}
+{"level":"info","ts":1545068391.7126153,"caller":"go-elk/main.go:35","msg":"test log: 522"}
+{"level":"info","ts":1545068392.7793121,"caller":"go-elk/main.go:35","msg":"test log: 523"}
+{"level":"info","ts":1545068393.8433712,"caller":"go-elk/main.go:35","msg":"test log: 524"}
+{"level":"info","ts":1545068394.8722608,"caller":"go-elk/main.go:35","msg":"test log: 525"}
+{"level":"info","ts":1545068395.9260397,"caller":"go-elk/main.go:35","msg":"test log: 526"}
+{"level":"error","ts":1545068396.034913,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 526","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068397.156519,"caller":"go-elk/main.go:35","msg":"test log: 527"}
+{"level":"info","ts":1545068398.3101838,"caller":"go-elk/main.go:35","msg":"test log: 528"}
+{"level":"info","ts":1545068399.365604,"caller":"go-elk/main.go:35","msg":"test log: 529"}
+{"level":"info","ts":1545068400.3928058,"caller":"go-elk/main.go:35","msg":"test log: 530"}
+{"level":"info","ts":1545068401.4514694,"caller":"go-elk/main.go:35","msg":"test log: 531"}
+{"level":"info","ts":1545068402.548617,"caller":"go-elk/main.go:35","msg":"test log: 532"}
+{"level":"info","ts":1545068403.7777736,"caller":"go-elk/main.go:35","msg":"test log: 533"}
+{"level":"info","ts":1545068405.0192208,"caller":"go-elk/main.go:35","msg":"test log: 534"}
+{"level":"info","ts":1545068406.0958886,"caller":"go-elk/main.go:35","msg":"test log: 535"}
+{"level":"info","ts":1545068407.1319396,"caller":"go-elk/main.go:35","msg":"test log: 536"}
+{"level":"info","ts":1545068408.19862,"caller":"go-elk/main.go:35","msg":"test log: 537"}
+{"level":"info","ts":1545068409.227968,"caller":"go-elk/main.go:35","msg":"test log: 538"}
+{"level":"info","ts":1545068410.2553399,"caller":"go-elk/main.go:35","msg":"test log: 539"}
+{"level":"info","ts":1545068411.5594842,"caller":"go-elk/main.go:35","msg":"test log: 540"}
+{"level":"info","ts":1545068412.5812736,"caller":"go-elk/main.go:35","msg":"test log: 541"}
+{"level":"info","ts":1545068413.6368053,"caller":"go-elk/main.go:35","msg":"test log: 542"}
+{"level":"info","ts":1545068414.7750065,"caller":"go-elk/main.go:35","msg":"test log: 543"}
+{"level":"info","ts":1545068415.8996696,"caller":"go-elk/main.go:35","msg":"test log: 544"}
+{"level":"info","ts":1545068417.277484,"caller":"go-elk/main.go:35","msg":"test log: 545"}
+{"level":"info","ts":1545068418.3912516,"caller":"go-elk/main.go:35","msg":"test log: 546"}
+{"level":"info","ts":1545068419.5928295,"caller":"go-elk/main.go:35","msg":"test log: 547"}
+{"level":"info","ts":1545068420.6515143,"caller":"go-elk/main.go:35","msg":"test log: 548"}
+{"level":"info","ts":1545068421.8483138,"caller":"go-elk/main.go:35","msg":"test log: 549"}
+{"level":"info","ts":1545068422.9879568,"caller":"go-elk/main.go:35","msg":"test log: 550"}
+{"level":"info","ts":1545068424.0283167,"caller":"go-elk/main.go:35","msg":"test log: 551"}
+{"level":"info","ts":1545068425.1147778,"caller":"go-elk/main.go:35","msg":"test log: 552"}
+{"level":"info","ts":1545068426.1639342,"caller":"go-elk/main.go:35","msg":"test log: 553"}
+{"level":"info","ts":1545068427.290644,"caller":"go-elk/main.go:35","msg":"test log: 554"}
+{"level":"info","ts":1545068428.4808998,"caller":"go-elk/main.go:35","msg":"test log: 555"}
+{"level":"info","ts":1545068429.557145,"caller":"go-elk/main.go:35","msg":"test log: 556"}
+{"level":"info","ts":1545068430.7006824,"caller":"go-elk/main.go:35","msg":"test log: 557"}
+{"level":"info","ts":1545068431.8332677,"caller":"go-elk/main.go:35","msg":"test log: 558"}
+{"level":"info","ts":1545068433.0814257,"caller":"go-elk/main.go:35","msg":"test log: 559"}
+{"level":"info","ts":1545068434.2225366,"caller":"go-elk/main.go:35","msg":"test log: 560"}
+{"level":"info","ts":1545068435.3480816,"caller":"go-elk/main.go:35","msg":"test log: 561"}
+{"level":"error","ts":1545068435.3782506,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 561","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068436.409339,"caller":"go-elk/main.go:35","msg":"test log: 562"}
+{"level":"info","ts":1545068437.4508948,"caller":"go-elk/main.go:35","msg":"test log: 563"}
+{"level":"error","ts":1545068437.4807687,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 563","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068438.502391,"caller":"go-elk/main.go:35","msg":"test log: 564"}
+{"level":"info","ts":1545068439.6022394,"caller":"go-elk/main.go:35","msg":"test log: 565"}
+{"level":"info","ts":1545068440.6754243,"caller":"go-elk/main.go:35","msg":"test log: 566"}
+{"level":"info","ts":1545068441.7387967,"caller":"go-elk/main.go:35","msg":"test log: 567"}
+{"level":"info","ts":1545068442.7713413,"caller":"go-elk/main.go:35","msg":"test log: 568"}
+{"level":"info","ts":1545068443.8208852,"caller":"go-elk/main.go:35","msg":"test log: 569"}
+{"level":"error","ts":1545068443.887754,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 569","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068444.96051,"caller":"go-elk/main.go:35","msg":"test log: 570"}
+{"level":"info","ts":1545068446.0225997,"caller":"go-elk/main.go:35","msg":"test log: 571"}
+{"level":"info","ts":1545068447.064734,"caller":"go-elk/main.go:35","msg":"test log: 572"}
+{"level":"info","ts":1545068448.1293843,"caller":"go-elk/main.go:35","msg":"test log: 573"}
+{"level":"info","ts":1545068449.1971395,"caller":"go-elk/main.go:35","msg":"test log: 574"}
+{"level":"info","ts":1545068450.3592968,"caller":"go-elk/main.go:35","msg":"test log: 575"}
+{"level":"error","ts":1545068450.489552,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 575","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068451.576655,"caller":"go-elk/main.go:35","msg":"test log: 576"}
+{"level":"info","ts":1545068452.6985943,"caller":"go-elk/main.go:35","msg":"test log: 577"}
+{"level":"error","ts":1545068453.1941776,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 577","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068454.2967193,"caller":"go-elk/main.go:35","msg":"test log: 578"}
+{"level":"info","ts":1545068455.4477756,"caller":"go-elk/main.go:35","msg":"test log: 579"}
+{"level":"info","ts":1545068456.4923759,"caller":"go-elk/main.go:35","msg":"test log: 580"}
+{"level":"info","ts":1545068457.5115628,"caller":"go-elk/main.go:35","msg":"test log: 581"}
+{"level":"info","ts":1545068458.5379457,"caller":"go-elk/main.go:35","msg":"test log: 582"}
+{"level":"info","ts":1545068459.5612144,"caller":"go-elk/main.go:35","msg":"test log: 583"}
+{"level":"info","ts":1545068460.609152,"caller":"go-elk/main.go:35","msg":"test log: 584"}
+{"level":"info","ts":1545068461.657817,"caller":"go-elk/main.go:35","msg":"test log: 585"}
+{"level":"info","ts":1545068462.7665982,"caller":"go-elk/main.go:35","msg":"test log: 586"}
+{"level":"info","ts":1545068463.830189,"caller":"go-elk/main.go:35","msg":"test log: 587"}
+{"level":"info","ts":1545068464.851362,"caller":"go-elk/main.go:35","msg":"test log: 588"}
+{"level":"info","ts":1545068465.8863187,"caller":"go-elk/main.go:35","msg":"test log: 589"}
+{"level":"info","ts":1545068466.9147909,"caller":"go-elk/main.go:35","msg":"test log: 590"}
+{"level":"info","ts":1545068468.0575218,"caller":"go-elk/main.go:35","msg":"test log: 591"}
+{"level":"info","ts":1545068469.1133783,"caller":"go-elk/main.go:35","msg":"test log: 592"}
+{"level":"info","ts":1545068470.133567,"caller":"go-elk/main.go:35","msg":"test log: 593"}
+{"level":"info","ts":1545068471.1734772,"caller":"go-elk/main.go:35","msg":"test log: 594"}
+{"level":"info","ts":1545068472.1612642,"caller":"go-elk/main.go:35","msg":"test log: 595"}
+{"level":"info","ts":1545068473.1768858,"caller":"go-elk/main.go:35","msg":"test log: 596"}
+{"level":"info","ts":1545068474.2209883,"caller":"go-elk/main.go:35","msg":"test log: 597"}
+{"level":"info","ts":1545068475.3456647,"caller":"go-elk/main.go:35","msg":"test log: 598"}
+{"level":"info","ts":1545068476.3860047,"caller":"go-elk/main.go:35","msg":"test log: 599"}
+{"level":"info","ts":1545068477.3963654,"caller":"go-elk/main.go:35","msg":"test log: 600"}
+{"level":"info","ts":1545068478.446896,"caller":"go-elk/main.go:35","msg":"test log: 601"}
+{"level":"info","ts":1545068479.4694884,"caller":"go-elk/main.go:35","msg":"test log: 602"}
+{"level":"info","ts":1545068480.5856552,"caller":"go-elk/main.go:35","msg":"test log: 603"}
+{"level":"error","ts":1545068480.672274,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 603","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068481.8568666,"caller":"go-elk/main.go:35","msg":"test log: 604"}
+{"level":"error","ts":1545068481.8891366,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 604","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068483.0767124,"caller":"go-elk/main.go:35","msg":"test log: 605"}
+{"level":"info","ts":1545068484.310436,"caller":"go-elk/main.go:35","msg":"test log: 606"}
+{"level":"info","ts":1545068485.4580708,"caller":"go-elk/main.go:35","msg":"test log: 607"}
+{"level":"info","ts":1545068486.4771974,"caller":"go-elk/main.go:35","msg":"test log: 608"}
+{"level":"info","ts":1545068487.5474982,"caller":"go-elk/main.go:35","msg":"test log: 609"}
+{"level":"info","ts":1545068488.6104093,"caller":"go-elk/main.go:35","msg":"test log: 610"}
+{"level":"info","ts":1545068489.641931,"caller":"go-elk/main.go:35","msg":"test log: 611"}
+{"level":"error","ts":1545068489.648752,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 611","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068490.6747844,"caller":"go-elk/main.go:35","msg":"test log: 612"}
+{"level":"info","ts":1545068491.696429,"caller":"go-elk/main.go:35","msg":"test log: 613"}
+{"level":"info","ts":1545068492.702954,"caller":"go-elk/main.go:35","msg":"test log: 614"}
+{"level":"info","ts":1545068493.7185903,"caller":"go-elk/main.go:35","msg":"test log: 615"}
+{"level":"error","ts":1545068493.721552,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 615","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068494.7368197,"caller":"go-elk/main.go:35","msg":"test log: 616"}
+{"level":"info","ts":1545068495.7581701,"caller":"go-elk/main.go:35","msg":"test log: 617"}
+{"level":"info","ts":1545068496.870119,"caller":"go-elk/main.go:35","msg":"test log: 618"}
+{"level":"info","ts":1545068497.950684,"caller":"go-elk/main.go:35","msg":"test log: 619"}
+{"level":"info","ts":1545068499.1542306,"caller":"go-elk/main.go:35","msg":"test log: 620"}
+{"level":"info","ts":1545068500.266486,"caller":"go-elk/main.go:35","msg":"test log: 621"}
+{"level":"error","ts":1545068500.3417928,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 621","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068501.727871,"caller":"go-elk/main.go:35","msg":"test log: 622"}
+{"level":"info","ts":1545068502.772443,"caller":"go-elk/main.go:35","msg":"test log: 623"}
+{"level":"info","ts":1545068503.880336,"caller":"go-elk/main.go:35","msg":"test log: 624"}
+{"level":"info","ts":1545068504.9151742,"caller":"go-elk/main.go:35","msg":"test log: 625"}
+{"level":"info","ts":1545068505.9520175,"caller":"go-elk/main.go:35","msg":"test log: 626"}
+{"level":"info","ts":1545068507.0151112,"caller":"go-elk/main.go:35","msg":"test log: 627"}
+{"level":"info","ts":1545068508.0837162,"caller":"go-elk/main.go:35","msg":"test log: 628"}
+{"level":"error","ts":1545068508.1352644,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 628","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068509.2469466,"caller":"go-elk/main.go:35","msg":"test log: 629"}
+{"level":"error","ts":1545068509.3172767,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 629","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068510.5492501,"caller":"go-elk/main.go:35","msg":"test log: 630"}
+{"level":"info","ts":1545068511.6291852,"caller":"go-elk/main.go:35","msg":"test log: 631"}
+{"level":"info","ts":1545068512.7616804,"caller":"go-elk/main.go:35","msg":"test log: 632"}
+{"level":"info","ts":1545068513.917205,"caller":"go-elk/main.go:35","msg":"test log: 633"}
+{"level":"info","ts":1545068515.181553,"caller":"go-elk/main.go:35","msg":"test log: 634"}
+{"level":"info","ts":1545068516.3030827,"caller":"go-elk/main.go:35","msg":"test log: 635"}
+{"level":"info","ts":1545068517.378622,"caller":"go-elk/main.go:35","msg":"test log: 636"}
+{"level":"info","ts":1545068518.4134321,"caller":"go-elk/main.go:35","msg":"test log: 637"}
+{"level":"info","ts":1545068519.4822817,"caller":"go-elk/main.go:35","msg":"test log: 638"}
+{"level":"info","ts":1545068520.526627,"caller":"go-elk/main.go:35","msg":"test log: 639"}
+{"level":"info","ts":1545068521.5426857,"caller":"go-elk/main.go:35","msg":"test log: 640"}
+{"level":"info","ts":1545068522.6440027,"caller":"go-elk/main.go:35","msg":"test log: 641"}
+{"level":"info","ts":1545068523.785584,"caller":"go-elk/main.go:35","msg":"test log: 642"}
+{"level":"info","ts":1545068524.8846908,"caller":"go-elk/main.go:35","msg":"test log: 643"}
+{"level":"info","ts":1545068525.9621642,"caller":"go-elk/main.go:35","msg":"test log: 644"}
+{"level":"info","ts":1545068527.0026155,"caller":"go-elk/main.go:35","msg":"test log: 645"}
+{"level":"info","ts":1545068528.070407,"caller":"go-elk/main.go:35","msg":"test log: 646"}
+{"level":"info","ts":1545068529.159042,"caller":"go-elk/main.go:35","msg":"test log: 647"}
+{"level":"error","ts":1545068529.18074,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 647","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068530.3024817,"caller":"go-elk/main.go:35","msg":"test log: 648"}
+{"level":"info","ts":1545068531.370351,"caller":"go-elk/main.go:35","msg":"test log: 649"}
+{"level":"error","ts":1545068531.3839061,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 649","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068532.3966067,"caller":"go-elk/main.go:35","msg":"test log: 650"}
+{"level":"info","ts":1545068533.468902,"caller":"go-elk/main.go:35","msg":"test log: 651"}
+{"level":"info","ts":1545068534.5351362,"caller":"go-elk/main.go:35","msg":"test log: 652"}
+{"level":"info","ts":1545068535.5845015,"caller":"go-elk/main.go:35","msg":"test log: 653"}
+{"level":"info","ts":1545068536.6472,"caller":"go-elk/main.go:35","msg":"test log: 654"}
+{"level":"info","ts":1545068537.6867645,"caller":"go-elk/main.go:35","msg":"test log: 655"}
+{"level":"info","ts":1545068538.7407513,"caller":"go-elk/main.go:35","msg":"test log: 656"}
+{"level":"info","ts":1545068539.799727,"caller":"go-elk/main.go:35","msg":"test log: 657"}
+{"level":"info","ts":1545068540.848397,"caller":"go-elk/main.go:35","msg":"test log: 658"}
+{"level":"info","ts":1545068541.8879693,"caller":"go-elk/main.go:35","msg":"test log: 659"}
+{"level":"info","ts":1545068542.963638,"caller":"go-elk/main.go:35","msg":"test log: 660"}
+{"level":"info","ts":1545068544.0678248,"caller":"go-elk/main.go:35","msg":"test log: 661"}
+{"level":"error","ts":1545068544.1563485,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 661","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068545.2695355,"caller":"go-elk/main.go:35","msg":"test log: 662"}
+{"level":"info","ts":1545068546.3866248,"caller":"go-elk/main.go:35","msg":"test log: 663"}
+{"level":"info","ts":1545068547.5276911,"caller":"go-elk/main.go:35","msg":"test log: 664"}
+{"level":"error","ts":1545068547.6475787,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 664","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068548.8785644,"caller":"go-elk/main.go:35","msg":"test log: 665"}
+{"level":"info","ts":1545068550.0510352,"caller":"go-elk/main.go:35","msg":"test log: 666"}
+{"level":"info","ts":1545068551.174968,"caller":"go-elk/main.go:35","msg":"test log: 667"}
+{"level":"info","ts":1545068552.292458,"caller":"go-elk/main.go:35","msg":"test log: 668"}
+{"level":"info","ts":1545068553.4702976,"caller":"go-elk/main.go:35","msg":"test log: 669"}
+{"level":"info","ts":1545068554.6571877,"caller":"go-elk/main.go:35","msg":"test log: 670"}
+{"level":"info","ts":1545068555.7263548,"caller":"go-elk/main.go:35","msg":"test log: 671"}
+{"level":"info","ts":1545068556.9463248,"caller":"go-elk/main.go:35","msg":"test log: 672"}
+{"level":"info","ts":1545068558.0614948,"caller":"go-elk/main.go:35","msg":"test log: 673"}
+{"level":"info","ts":1545068559.185965,"caller":"go-elk/main.go:35","msg":"test log: 674"}
+{"level":"info","ts":1545068560.2472823,"caller":"go-elk/main.go:35","msg":"test log: 675"}
+{"level":"info","ts":1545068561.273551,"caller":"go-elk/main.go:35","msg":"test log: 676"}
+{"level":"info","ts":1545068562.2874637,"caller":"go-elk/main.go:35","msg":"test log: 677"}
+{"level":"info","ts":1545068563.7811315,"caller":"go-elk/main.go:35","msg":"test log: 678"}
+{"level":"info","ts":1545068564.847589,"caller":"go-elk/main.go:35","msg":"test log: 679"}
+{"level":"info","ts":1545068566.0991418,"caller":"go-elk/main.go:35","msg":"test log: 680"}
+{"level":"info","ts":1545068567.1641753,"caller":"go-elk/main.go:35","msg":"test log: 681"}
+{"level":"info","ts":1545068568.2048697,"caller":"go-elk/main.go:35","msg":"test log: 682"}
+{"level":"info","ts":1545068569.2634418,"caller":"go-elk/main.go:35","msg":"test log: 683"}
+{"level":"info","ts":1545068570.3503325,"caller":"go-elk/main.go:35","msg":"test log: 684"}
+{"level":"error","ts":1545068570.3715558,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 684","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068571.4776165,"caller":"go-elk/main.go:35","msg":"test log: 685"}
+{"level":"info","ts":1545068572.5472026,"caller":"go-elk/main.go:35","msg":"test log: 686"}
+{"level":"error","ts":1545068572.5578256,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 686","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068573.6017506,"caller":"go-elk/main.go:35","msg":"test log: 687"}
+{"level":"info","ts":1545068574.8326128,"caller":"go-elk/main.go:35","msg":"test log: 688"}
+{"level":"info","ts":1545068575.988109,"caller":"go-elk/main.go:35","msg":"test log: 689"}
+{"level":"info","ts":1545068577.1617484,"caller":"go-elk/main.go:35","msg":"test log: 690"}
+{"level":"info","ts":1545068578.265618,"caller":"go-elk/main.go:35","msg":"test log: 691"}
+{"level":"info","ts":1545068579.3760414,"caller":"go-elk/main.go:35","msg":"test log: 692"}
+{"level":"info","ts":1545068580.4287093,"caller":"go-elk/main.go:35","msg":"test log: 693"}
+{"level":"info","ts":1545068581.7752602,"caller":"go-elk/main.go:35","msg":"test log: 694"}
+{"level":"info","ts":1545068582.9573452,"caller":"go-elk/main.go:35","msg":"test log: 695"}
+{"level":"info","ts":1545068584.0121994,"caller":"go-elk/main.go:35","msg":"test log: 696"}
+{"level":"info","ts":1545068585.1740224,"caller":"go-elk/main.go:35","msg":"test log: 697"}
+{"level":"info","ts":1545068586.6642272,"caller":"go-elk/main.go:35","msg":"test log: 698"}
+{"level":"info","ts":1545068587.7167356,"caller":"go-elk/main.go:35","msg":"test log: 699"}
+{"level":"info","ts":1545068588.8648498,"caller":"go-elk/main.go:35","msg":"test log: 700"}
+{"level":"info","ts":1545068589.9396012,"caller":"go-elk/main.go:35","msg":"test log: 701"}
+{"level":"error","ts":1545068589.9875932,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 701","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068591.2499118,"caller":"go-elk/main.go:35","msg":"test log: 702"}
+{"level":"info","ts":1545068592.3495626,"caller":"go-elk/main.go:35","msg":"test log: 703"}
+{"level":"info","ts":1545068593.4096491,"caller":"go-elk/main.go:35","msg":"test log: 704"}
+{"level":"error","ts":1545068593.544037,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 704","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068594.666754,"caller":"go-elk/main.go:35","msg":"test log: 705"}
+{"level":"info","ts":1545068595.8153014,"caller":"go-elk/main.go:35","msg":"test log: 706"}
+{"level":"info","ts":1545068596.9574058,"caller":"go-elk/main.go:35","msg":"test log: 707"}
+{"level":"info","ts":1545068598.0085607,"caller":"go-elk/main.go:35","msg":"test log: 708"}
+{"level":"info","ts":1545068599.0592873,"caller":"go-elk/main.go:35","msg":"test log: 709"}
+{"level":"error","ts":1545068599.1393945,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 709","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068600.2030098,"caller":"go-elk/main.go:35","msg":"test log: 710"}
+{"level":"info","ts":1545068601.5188575,"caller":"go-elk/main.go:35","msg":"test log: 711"}
+{"level":"info","ts":1545068602.5811832,"caller":"go-elk/main.go:35","msg":"test log: 712"}
+{"level":"info","ts":1545068603.9310474,"caller":"go-elk/main.go:35","msg":"test log: 713"}
+{"level":"info","ts":1545068605.3558195,"caller":"go-elk/main.go:35","msg":"test log: 714"}
+{"level":"info","ts":1545068606.7208617,"caller":"go-elk/main.go:35","msg":"test log: 715"}
+{"level":"info","ts":1545068607.8756511,"caller":"go-elk/main.go:35","msg":"test log: 716"}
+{"level":"info","ts":1545068609.0078914,"caller":"go-elk/main.go:35","msg":"test log: 717"}
+{"level":"info","ts":1545068610.3723948,"caller":"go-elk/main.go:35","msg":"test log: 718"}
+{"level":"info","ts":1545068611.8265576,"caller":"go-elk/main.go:35","msg":"test log: 719"}
+{"level":"info","ts":1545068613.5757504,"caller":"go-elk/main.go:35","msg":"test log: 720"}
+{"level":"error","ts":1545068616.56489,"caller":"go-elk/main.go:37","msg":"test error","error":"error because test: 720","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:37\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068617.72277,"caller":"go-elk/main.go:35","msg":"test log: 721"}
+{"level":"info","ts":1545068622.0349586,"caller":"go-elk/main.go:35","msg":"test log: 722"}
+{"level":"info","ts":1545068624.5725067,"caller":"go-elk/main.go:35","msg":"test log: 723"}
+{"level":"error","ts":1545068765.3738945,"caller":"go-elk/main.go:36","msg":"test error","error":"error because test: 1","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:36\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068768.3813632,"caller":"go-elk/main.go:38","msg":"test log: 2"}
+{"level":"info","ts":1545068771.3850417,"caller":"go-elk/main.go:38","msg":"test log: 3"}
+{"level":"info","ts":1545068774.386992,"caller":"go-elk/main.go:38","msg":"test log: 4"}
+{"level":"error","ts":1545068777.3947983,"caller":"go-elk/main.go:36","msg":"test error","error":"error because test: 5","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:36\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068780.4021595,"caller":"go-elk/main.go:38","msg":"test log: 6"}
+{"level":"info","ts":1545068783.415753,"caller":"go-elk/main.go:38","msg":"test log: 7"}
+{"level":"info","ts":1545068786.422887,"caller":"go-elk/main.go:38","msg":"test log: 8"}
+{"level":"info","ts":1545068789.4317176,"caller":"go-elk/main.go:38","msg":"test log: 9"}
+{"level":"info","ts":1545068792.4530716,"caller":"go-elk/main.go:38","msg":"test log: 10"}
+{"level":"info","ts":1545068795.4596488,"caller":"go-elk/main.go:38","msg":"test log: 11"}
+{"level":"error","ts":1545068798.488569,"caller":"go-elk/main.go:36","msg":"test error","error":"error because test: 12","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:36\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068801.4938343,"caller":"go-elk/main.go:38","msg":"test log: 13"}
+{"level":"info","ts":1545068804.4960387,"caller":"go-elk/main.go:38","msg":"test log: 14"}
+{"level":"info","ts":1545068807.4982617,"caller":"go-elk/main.go:38","msg":"test log: 15"}
+{"level":"info","ts":1545068810.5025687,"caller":"go-elk/main.go:38","msg":"test log: 16"}
+{"level":"error","ts":1545068813.5047667,"caller":"go-elk/main.go:36","msg":"test error","error":"error because test: 17","stacktrace":"main.main\n\t/go/src/github.com/pcherednichenko/go-elk/main.go:36\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:201"}
+{"level":"info","ts":1545068816.5055947,"caller":"go-elk/main.go:38","msg":"test log: 18"}
+{"level":"info","ts":1545068819.5064921,"caller":"go-elk/main.go:38","msg":"test log: 19"}
+{"level":"info","ts":1545068822.5084352,"caller":"go-elk/main.go:38","msg":"test log: 20"}
+{"level":"info","ts":1545068825.510494,"caller":"go-elk/main.go:38","msg":"test log: 21"}
+{"level":"info","ts":1545068828.511835,"caller":"go-elk/main.go:38","msg":"test log: 22"}
